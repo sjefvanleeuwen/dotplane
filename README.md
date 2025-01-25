@@ -1,2 +1,2 @@
 # dotplane
-experimental backplane for .net on linux
+experimental minimalistic backplane for .net on linux
